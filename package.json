@@ -1,0 +1,20 @@
+{
+  "name": "skyybot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@distube/ytdl-core": "^4.13.7",
+    "@sasmeee/igdl": "^1.0.0",
+    "@wppconnect-team/wppconnect": "^1.32.4",
+    "instagram-scraper": "^1.0.6",
+    "sharp": "^0.33.4"
+  }
+}
